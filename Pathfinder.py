@@ -13,8 +13,8 @@
 
 # -----------------------------------------------------------------------------
 # Written by: Ruilin Ma, 2023
-# Version: 0.9
-# Date: 2023/03/28
+# Version: 1.0
+# Date: 2023/05/22
 
 from captureAgents import CaptureAgent
 import random, time, util
